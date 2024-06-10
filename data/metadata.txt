@@ -1,0 +1,29 @@
+----------metadata----------
+
+Keywords:
+Dive, tracking, tagging, whale, pilot whale, vocalisation, foraging
+
+---------------------------------------
+
+Data file name = pilot_whale_data.csv
+
+Data collection:
+Short-finned pilot whales were tagged for tracking and acoustic detection
+
+Location:
+60-90 km north and east of Cape Hatteras, North Carolina, USA
+"Near the shelf break in water depths from 100-1600 m
+
+Time:
+May-September 2008-2016
+
+Equipment used:
+Version 2 & Version 3 digital acoustic tags (DTAGs; Johnson & Tyack 2003) delivered via carbon fiber pole
+6 & 9 metre rigid hulled inflatable boat
+VHF radio transmitter located in the tag
+"Larger support vessel" used for overnight tracking during some years
+
+---------------------------------------
+
+
+

@@ -1,0 +1,34 @@
+.............VARIABLES OF INTEREST................
+Depth
+Duration
+Foraging time
+Non foraging time
+Three categories of vocalisation:
+	NumBuzzDescent
+	NumBuzzBottom
+	NumBuzzAscent
+Night/Day
+Sprint counts/duration
+
+.............TRANSFORMS...........................
+
+Multiple transforms will be attempted to normalise the data:
+
+Count data (e.g. NumBuzz...) potentially poisson or geometric
+Continuous data (i.e. time, e.g. Duration) potentially exponential or lognormal
+
+.............MULTIVARIATE ORDINATION..............
+
+A multivariate ordination will be performed to determine patterns which tend to group together
+
+
+.............CLUSTER ANALYSIS.....................
+
+A cluster analysis will be performed to recognise any strong patterns in the data
+
+.............CANONICAL CORRELATIONS...............
+
+A canonical correlation analysis MAY be performed to determine relationships amongst variables for a single individual
+
+
+

@@ -1,0 +1,28 @@
+Data file (pilot_whale_data.csv)
+
+288 rows, 26 columns
+
+Columns:
+tagID (individual ID of multisensor tag)
+DiveNum (count of dives by individuals)
+DiveStart (dive start measured by seconds since tag on)
+DiveStartTime (dive start time local)
+DiveEnd (dive end measured by seconds since tag on)
+DiveEndTime (dive end time local)
+Depth (maximum depth in metres achieved by individual)
+Duration (length of dive in seconds)
+NumBuzzDive (count of individual "buzz" vocalisations during dive)
+BuzzRateMinute (rate of vocalisations per minute)
+ForagingDuration (time spent foraging during dive in seconds)
+NumBuzzDescent, NumBuzzBottom, NumBuzzAscent (vocalisation count broken into sections of dive)
+DayNight (whether the dive was performed during the day or night, binary day or night)
+NumSprint (count of "sprints" [Speed >3m/s] performed by individuals during the dive)
+MaxVelocity (the maximum speed achieved by individuals during a sprint)
+TotalDurSprints (the cumulative duration of sprints per individual)
+SprintsNumBuzzes (count of vocalisations during sprints)
+SprintsBuzzRatio (
+EchoExist (the presence of a seafloor biosonar echo)
+MinAltitude (minimum altitude above seafloor in metres)
+BenthicNumBuzzes (
+BenthicBuzzRatio (
+Category (Benthic or Pelagic)
